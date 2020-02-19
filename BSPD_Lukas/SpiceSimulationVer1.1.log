@@ -1,0 +1,204 @@
+Circuit: * Y:\Technik\Technik 2020\04 - Electronics\03 - Analog Circuits\03 - BSPD\Lukas Version\SpiceSimulationVer1.1.asc
+
+WARNING: Less than two connections to node BSPDAUS.  This node is used by A4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+Gmin = 2.5711e-006
+vernier = 0.666667
+Gmin = 6.6012e-007
+vernier = 0.888888
+vernier = 1
+Gmin = 8.6905e-008
+Gmin = 9.33136e-009
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.71796e-009
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 2.67598e-009
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 2.67272e-009
+vernier = 0.00130208
+vernier = 0.00173611
+Gmin = 2.66288e-009
+vernier = 0.00231481
+vernier = 0.00115741
+vernier = 0.00154321
+Gmin = 2.65569e-009
+vernier = 0.00205761
+Gmin = 2.64377e-009
+vernier = 0.00102881
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 2.64083e-009
+vernier = 0.000514403
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 14.7727%
+Source Step = 16.6667%
+vernier = 0.015625
+Source Step = 16.9508%
+Source Step = 17.4242%
+Source Step = 17.8977%
+Source Step = 18.3712%
+Source Step = 18.8447%
+vernier = 0.0234375
+Source Step = 19.5313%
+vernier = 0.00585938
+Source Step = 19.6378%
+Source Step = 19.8153%
+Source Step = 19.9929%
+Source Step = 20.1705%
+Source Step = 20.348%
+vernier = 0.00878906
+Source Step = 20.6055%
+Source Step = 20.8718%
+Source Step = 21.1381%
+Source Step = 21.4045%
+Source Step = 21.6708%
+vernier = 0.0131836
+Source Step = 21.794%
+Source Step = 21.8939%
+Source Step = 21.9937%
+Source Step = 22.0936%
+Source Step = 22.1935%
+vernier = 0.00494385
+Source Step = 22.3233%
+Source Step = 22.4731%
+Source Step = 22.623%
+Source Step = 22.7728%
+Source Step = 22.9226%
+vernier = 0.00741577
+Source Step = 23.1099%
+Source Step = 23.3346%
+Source Step = 23.5593%
+Source Step = 23.784%
+Source Step = 24.0087%
+vernier = 0.0111237
+Source Step = 24.2784%
+Source Step = 24.6155%
+Source Step = 24.9526%
+Source Step = 25.2896%
+Source Step = 25.6267%
+vernier = 0.0166855
+Source Step = 26.0144%
+Source Step = 26.52%
+Source Step = 27.0256%
+Source Step = 27.5312%
+Source Step = 28.0368%
+vernier = 0.0250282
+Source Step = 28.593%
+Source Step = 29.3515%
+Source Step = 30.1099%
+Source Step = 30.8683%
+Source Step = 31.6268%
+vernier = 0.0375423
+Source Step = 32.4231%
+vernier = 0.00938559
+Source Step = 32.5938%
+Source Step = 32.8782%
+Source Step = 33.1626%
+Source Step = 33.447%
+Source Step = 33.7314%
+vernier = 0.0140784
+Source Step = 34.1438%
+Source Step = 34.5704%
+Source Step = 34.997%
+Source Step = 35.4236%
+Source Step = 35.8503%
+vernier = 0.0211176
+Source Step = 36.4475%
+Source Step = 37.0875%
+Source Step = 37.7274%
+Source Step = 38.3673%
+Source Step = 39.0072%
+vernier = 0.0316764
+Source Step = 39.8711%
+Source Step = 40.831%
+Source Step = 41.7909%
+Source Step = 42.7508%
+Source Step = 43.7107%
+vernier = 0.0475145
+Source Step = 44.9586%
+Source Step = 46.3984%
+Source Step = 47.8382%
+Source Step = 49.2781%
+Source Step = 50.7179%
+vernier = 0.0712718
+Source Step = 52.5177%
+Source Step = 54.6774%
+Source Step = 56.8372%
+Source Step = 58.9969%
+Source Step = 61.1567%
+vernier = 0.106908
+Source Step = 63.7484%
+Source Step = 66.988%
+Source Step = 70.2276%
+Source Step = 73.4673%
+Source Step = 76.7069%
+vernier = 0.160362
+Source Step = 80.4325%
+vernier = 0.0400904
+Source Step = 81.1614%
+Source Step = 82.3762%
+Source Step = 83.5911%
+Source Step = 84.806%
+Source Step = 86.0208%
+vernier = 0.0601356
+Source Step = 87.7824%
+Source Step = 89.6047%
+Source Step = 91.4269%
+Source Step = 93.2492%
+Source Step = 95.0715%
+vernier = 0.0902034
+Source Step = 97.6227%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 14.2894 to 14.2894
+Heightened Def Con from 14.2936 to 14.2936
+Heightened Def Con from 14.295 to 14.295
+Heightened Def Con from 16.5485 to 16.5485
+Heightened Def Con from 55.6566 to 55.6566
+Heightened Def Con from 55.657 to 55.657
+Heightened Def Con from 78.7099 to 78.7099
+Heightened Def Con from 78.71 to 78.71
+Heightened Def Con from 120.484 to 120.484
+Heightened Def Con from 143.623 to 143.623
+Heightened Def Con from 143.703 to 143.703
+Heightened Def Con from 185.661 to 185.661
+Heightened Def Con from 185.663 to 185.663
+
+Date: Mon Feb 17 09:36:23 2020
+Total elapsed time: 5.002 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 35338
+traniter = 28444
+tranpoints = 7393
+accept = 5688
+rejected = 1718
+matrix size = 118
+fillins = 83
+solver = Normal
+Thread vector: 41.6/20.7[12] 13.8/7.5[12] 9.7/4.2[12] 0.7/1.7[1]  2592/500
+Matrix Compiler1: 10.94 KB object code size  3.7/1.6/[1.0]
+Matrix Compiler2: 11.66 KB object code size  3.5/3.0/[0.9]
+
