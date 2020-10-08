@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LDYBPFTT
+DocumentUniqueId=FJHHJCOC
 
 [Document4]
 DocumentPath=PCB_BSPDV1_2.PcbDoc
@@ -106,22 +106,26 @@ GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
 [GeneratedDocument1]
-DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.DRR
+DocumentPath=Project Outputs for BSPDLukas\Design Rule Check - PCB_BSPDV1_2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.EXTREP
+DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.LDP
+DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.REP
+DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPDV1_1.RUL
 DItemRevisionGUID=
 
