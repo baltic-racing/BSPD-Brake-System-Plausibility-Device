@@ -47,7 +47,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BSPD_TY22.MbsDoc
+DocumentPath=..\..\BSPD_TY22\BSPD_TY22.MbsDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
