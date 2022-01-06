@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=BSPD_TY22.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\01 - Parts\BSPD_Main\BSPD_Main.PrjPcb
+Record=SubProject|SourceDocument=BSPD_TY22.MbsDoc|ProjectPath=..\01 - Parts\BSPD_Main\BSPD_Main.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BSPD_TY22.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\01 - Parts\BSPD_Sensorboard\BSPD_Sensorboard.PrjPcb
+Record=SubProject|SourceDocument=BSPD_TY22.MbsDoc|ProjectPath=..\01 - Parts\BSPD_Sensorboard\BSPD_Sensorboard.PrjPcb
