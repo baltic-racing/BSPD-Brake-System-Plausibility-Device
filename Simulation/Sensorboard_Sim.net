@@ -1,0 +1,11 @@
+* Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\BSPD_PCB\Simulation\Sensorboard_Sim.asc
+I1 0 Signal SINE(0.05 0.05 1)
+R1 Signal 0 500
+D1 0 Signal 1N750
+R3 P001 Signal 23.5k
+V1 P001 0 24V
+.model D D
+.lib C:\Users\Admin\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 5
+.backanno
+.end
