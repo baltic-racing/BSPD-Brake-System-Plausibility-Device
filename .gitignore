@@ -8,7 +8,6 @@
 /BSPD_LUKAS/BSPDLukas/_Previews
 BSPD_TY22/01 - Parts/BSPD_Main/Status Report.Txt
 *.LOG
-*.Zip
 *.xlsx
 *.SchDocPreview
 *.SchDocPreview
@@ -41,3 +40,6 @@ BSPD_TY22/01 - Parts/BSPD_Main/gerbers/Status Report.Txt
 *.SchDocPreview
 *.raw
 *.raw
+BSPD_TY22/01 - Parts/BSPD_Sensorboard/gerbers/JLC_GERBERS/PCB_BSPD_Sensorboard.TXT
+BSPD_TY22/01 - Parts/BSPD_Main/History/BSPD_Main.~(5).PrjPcb.Zip
+*.Zip
