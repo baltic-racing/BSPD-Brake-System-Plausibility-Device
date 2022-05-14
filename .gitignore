@@ -17,3 +17,27 @@ BSPD_TY22/01 - Parts/BSPD_Main/Status Report.Txt
 *.SchDocPreview
 *.raw
 *.raw
+*.SchDocPreview
+*.APR_LIB
+*.apr
+*.DRR
+*.EXTREP
+*.G1
+*.G2
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.LDP
+*.REP
+*.RUL
+BSPD_TY22/01 - Parts/BSPD_Main/gerbers/JLC_GERBERS/PCB_BSPD_Main.TXT
+BSPD_TY22/01 - Parts/BSPD_Main/gerbers/Status Report.Txt
+*.SchDocPreview
+*.raw
+*.raw
