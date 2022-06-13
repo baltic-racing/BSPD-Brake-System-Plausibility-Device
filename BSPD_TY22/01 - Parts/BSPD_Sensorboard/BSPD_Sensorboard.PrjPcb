@@ -124,38 +124,34 @@ DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GM
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=gerbers\JLC_GERBERS\PCB_BSPD_Sensorboard.TXT
 DItemRevisionGUID=
 
@@ -313,12 +309,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft PCL6 Class Driver
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
